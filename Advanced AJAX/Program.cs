@@ -1,3 +1,12 @@
+global using System.ComponentModel.DataAnnotations;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using System.ComponentModel;
+global using Microsoft.EntityFrameworkCore;
+global using AdvancedAjax.Models;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.Mvc.Rendering;
+global using AdvancedAjax.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

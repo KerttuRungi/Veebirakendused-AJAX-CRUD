@@ -1,0 +1,12 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "ConnectionStrings": {
+    "DbConn": "Data Source=(local); Initial Catalog=AjaxExample; trusted_connection=yes;"
+  },
+  "AllowedHosts": "*"
+}

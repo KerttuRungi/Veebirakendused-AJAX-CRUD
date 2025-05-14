@@ -1,0 +1,16 @@
+  private string GetProfilePhotoFileName(Customer customer)
+        {
+            string uniqueFileName = null;
+
+            if (customer.ProfilePhoto != null)
+            {
+                string uploadsFolder = Path.Combine(_webHost.WebRootPath, "images");
+                uniqueFileName = Guid.NewGuid().ToString() + "_" + customer.ProfilePhoto.FileName;
+                string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+                using (var fileStream = new FileStream(filePath, FileMode.Create))
+                {
+                    customer.ProfilePhoto.CopyTo(fileStream);
+                }
+            }
+            return uniqueFileName;
+        }

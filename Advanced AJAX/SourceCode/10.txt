@@ -1,0 +1,5 @@
+add the menu link in the layouts.cshtml for country controller.
+
+<li class="nav-item">
+  <a class="nav-link text-dark" asp-area="" asp-controller="Country" asp-action="Index">Countries</a>
+</li>

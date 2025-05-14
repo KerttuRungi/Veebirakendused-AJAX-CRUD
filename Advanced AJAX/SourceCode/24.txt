@@ -1,0 +1,5 @@
+      		  <div class="form-group pt-0 mt-0">
+                         <div ID="HiddenDiv" style="visibility: hidden;">
+                        <input asp-for="PhotoUrl" id="PhotoUrl" value=""/>                        
+                        </div>
+                    </div>

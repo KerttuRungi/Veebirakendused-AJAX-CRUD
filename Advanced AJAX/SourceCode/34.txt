@@ -1,0 +1,6 @@
+ Customer customer = _context.Customers
+                .Include(co=>co.City)
+                .Where(c => c.Id == Id).FirstOrDefault();
+
+
+            customer.CountryId = customer.City.CountryId;

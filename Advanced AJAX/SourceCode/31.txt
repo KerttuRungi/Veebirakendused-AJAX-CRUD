@@ -1,0 +1,4 @@
+          string uniqueFileName = GetProfilePhotoFileName(customer);
+            customer.PhotoUrl = uniqueFileName;
+
+

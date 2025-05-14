@@ -1,0 +1,17 @@
+# Ignore Visual Studio folders and files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+*.exe
+*.dll
+*.pdb
+
+# Ignore ASP.NET specific files
+App_Data/
+App_Start/

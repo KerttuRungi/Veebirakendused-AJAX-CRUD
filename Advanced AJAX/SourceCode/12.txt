@@ -1,0 +1,9 @@
+   [AcceptVerbs("Get", "Post")]
+        public JsonResult IsCodeValid(string Code,int Id)
+        {
+           int ct = _context.Countries.Where(n => n.Code.ToLower() == Code.ToLower() && n.Id!=Id).Count();
+            if (ct > 0)
+                return Json(data: false);
+            else
+                return Json(data: true);
+        }
