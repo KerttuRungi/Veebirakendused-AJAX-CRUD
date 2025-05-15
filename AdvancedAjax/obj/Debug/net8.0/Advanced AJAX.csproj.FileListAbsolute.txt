@@ -1,0 +1,48 @@
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\bin\Debug\net8.0\appsettings.json
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\bin\Debug\net8.0\Advanced AJAX.staticwebassets.runtime.json
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\bin\Debug\net8.0\Advanced AJAX.staticwebassets.endpoints.json
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\bin\Debug\net8.0\Advanced AJAX.exe
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\bin\Debug\net8.0\Advanced AJAX.deps.json
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\bin\Debug\net8.0\Advanced AJAX.runtimeconfig.json
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\bin\Debug\net8.0\Advanced AJAX.dll
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\bin\Debug\net8.0\Advanced AJAX.pdb
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\Advanced AJAX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\Advanced AJAX.AssemblyInfoInputs.cache
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\Advanced AJAX.AssemblyInfo.cs
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\Advanced AJAX.csproj.CoreCompileInputs.cache
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\Advanced AJAX.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\Advanced AJAX.RazorAssemblyInfo.cache
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\Advanced AJAX.RazorAssemblyInfo.cs
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\Advanced AJAX.sourcelink.json
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\scopedcss\bundle\Advanced AJAX.styles.css
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\scopedcss\projectbundle\Advanced AJAX.bundle.scp.css
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\staticwebassets\msbuild.Advanced AJAX.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\staticwebassets\msbuild.Advanced AJAX.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\staticwebassets\msbuild.build.Advanced AJAX.props
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Advanced AJAX.props
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Advanced AJAX.props
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\Advanced AJAX.dll
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\refint\Advanced AJAX.dll
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\Advanced AJAX.pdb
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\Advanced AJAX.genruntimeconfig.cache
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\ref\Advanced AJAX.dll
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\Advanced AJAX\obj\Debug\net8.0\Advanced AJAX.csproj.AssemblyReference.cache
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\obj\Debug\net8.0\Advanced AJAX.csproj.AssemblyReference.cache
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\obj\Debug\net8.0\Advanced AJAX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\obj\Debug\net8.0\Advanced AJAX.AssemblyInfoInputs.cache
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\obj\Debug\net8.0\Advanced AJAX.AssemblyInfo.cs
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\obj\Debug\net8.0\Advanced AJAX.csproj.CoreCompileInputs.cache
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\obj\Debug\net8.0\Advanced AJAX.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\obj\Debug\net8.0\Advanced AJAX.RazorAssemblyInfo.cache
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\obj\Debug\net8.0\Advanced AJAX.RazorAssemblyInfo.cs
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\obj\Debug\net8.0\Advanced AJAX.sourcelink.json
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\obj\Debug\net8.0\Advanced AJAX.dll
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\obj\Debug\net8.0\refint\Advanced AJAX.dll
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\obj\Debug\net8.0\Advanced AJAX.pdb
