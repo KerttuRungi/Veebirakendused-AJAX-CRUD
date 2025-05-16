@@ -47,15 +47,25 @@ namespace Advanced_AJAX.Controllers
         [HttpGet]
         public IActionResult Details(int Id)
         {
-            Customer customer = _context.Customers.Where(c => c.Id == Id).FirstOrDefault();
+            Customer customer = _context.Customers
+              .Include(cty => cty.City)
+              .Include(cou => cou.City.Country)
+              .Where(c => c.Id == Id).FirstOrDefault();
             return View(customer);
         }
 
         [HttpGet]
         public IActionResult Edit(int Id)
         {
-            Customer customer = _context.Customers.Where(c => c.Id == Id).FirstOrDefault();
+
+            Customer customer = _context.Customers
+               .Include(co => co.City)
+               .Where(c => c.Id == Id).FirstOrDefault();
+
+
+            customer.CountryId = customer.City.CountryId;
             ViewBag.Countries = GetCountries();
+            ViewBag.Cities = GetCities(customer.CountryId);
             return View(customer);
         }
 
@@ -63,6 +73,11 @@ namespace Advanced_AJAX.Controllers
         [HttpPost]
         public IActionResult Edit(Customer customer)
         {
+            if (customer.ProfilePhoto != null)
+            {
+                string uniqueFileName = GetProfilePhotoFileName(customer);
+                customer.PhotoUrl = uniqueFileName;
+            }
             _context.Attach(customer);
             _context.Entry(customer).State = EntityState.Modified;
             _context.SaveChanges();
@@ -146,5 +161,20 @@ namespace Advanced_AJAX.Controllers
             return uniqueFileName;
         }
 
+        private List<SelectListItem> GetCities(int countryId)
+        {
+
+            List<SelectListItem> cities = _context.Cities
+                .Where(c => c.CountryId == countryId)
+                .OrderBy(n => n.Name)
+                .Select(n =>
+                new SelectListItem
+                {
+                    Value = n.Id.ToString(),
+                    Text = n.Name
+                }).ToList();
+
+            return cities;
+        }
     }
 }

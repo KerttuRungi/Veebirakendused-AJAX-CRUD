@@ -33,7 +33,10 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Create" enctype="multipart/form-data">
+        <form asp-action="Edit" enctype="multipart/form-data">
+            <input type="hidden" asp-for="Id" />
+
+
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="FirstName" class="control-label"></label>
@@ -67,7 +70,7 @@
 
                     <label asp-for="ProfilePhoto" class="control-label"></label>
 
-                    <img id="PreviewPhoto" src="~/images/noimage.png" alt="Logo Image"
+                    <img id="PreviewPhoto" src="~/images/@Model.PhotoUrl" alt="Logo Image"
                          width="125" height="125" />
 
                     <span asp-validation-for="PhotoUrl" class="text-danger"></span>
@@ -87,12 +90,12 @@
             </div>
 
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Edit" class="btn btn-primary" />
             </div>
 
             <div class="form-group pt-0 mt-0">
                 <div ID="HiddenDiv" style="visibility: hidden;">
-                    <input asp-for="PhotoUrl" id="PhotoUrl" value="" />
+                    <input asp-for="PhotoUrl" id="PhotoUrl" />
                 </div>
             </div>
         </form>
