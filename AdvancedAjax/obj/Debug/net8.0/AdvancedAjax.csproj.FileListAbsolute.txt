@@ -287,3 +287,4 @@ C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\bin\De
 C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\kertt\Desktop\Kõik repod\Veebirakendused-AJAX-CRUD\AdvancedAjax\bin\Debug\net8.0\libman.json

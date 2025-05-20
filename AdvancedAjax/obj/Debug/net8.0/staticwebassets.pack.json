@@ -5,8 +5,28 @@
       "PackagePath": "staticwebassets\\AdvancedAjax.iqdoxab85r.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\17446f0a-0e58-4cdc-9493-46e9bda1fff4_Katze.jpg",
+      "PackagePath": "staticwebassets\\Images\\17446f0a-0e58-4cdc-9493-46e9bda1fff4_Katze.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\2c9a9280-cacf-4e01-9edb-3d2a60ed94cc_Katze.jpg",
+      "PackagePath": "staticwebassets\\Images\\2c9a9280-cacf-4e01-9edb-3d2a60ed94cc_Katze.jpg"
+    },
+    {
       "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\32c98d1f-e276-4e59-9d31-5f7750733c21_Katze.jpg",
       "PackagePath": "staticwebassets\\Images\\32c98d1f-e276-4e59-9d31-5f7750733c21_Katze.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\337fc866-288c-42d8-87e7-fc902d3e2b8b_Katze.jpg",
+      "PackagePath": "staticwebassets\\Images\\337fc866-288c-42d8-87e7-fc902d3e2b8b_Katze.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\5b0e5aa2-1f72-4f97-b835-5f20fd51149b_Katze.jpg",
+      "PackagePath": "staticwebassets\\Images\\5b0e5aa2-1f72-4f97-b835-5f20fd51149b_Katze.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\6113ea1e-d4fc-4b36-91b6-0663b47e279d_Katze.jpg",
+      "PackagePath": "staticwebassets\\Images\\6113ea1e-d4fc-4b36-91b6-0663b47e279d_Katze.jpg"
     },
     {
       "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\c66c5386-4eb8-4a5b-ab25-67dbc12e19d9_Screenshot 2024-09-24 233922.png",
@@ -15,6 +35,10 @@
     {
       "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\c80bfb3b-d81a-42e8-aec0-04fa2f087c53_e27048c8-3957-43bd-b276-49ea0ddfa29e.jpg",
       "PackagePath": "staticwebassets\\Images\\c80bfb3b-d81a-42e8-aec0-04fa2f087c53_e27048c8-3957-43bd-b276-49ea0ddfa29e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\f00979a5-26f2-4996-8be1-cfab9e17b306_Katze.jpg",
+      "PackagePath": "staticwebassets\\Images\\f00979a5-26f2-4996-8be1-cfab9e17b306_Katze.jpg"
     },
     {
       "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\fefef4f9-cd1e-464e-bba2-0a439a61aff7_e27048c8-3957-43bd-b276-49ea0ddfa29e.jpg",
@@ -215,6 +239,14 @@
     {
       "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js"
     },
     {
       "Id": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",

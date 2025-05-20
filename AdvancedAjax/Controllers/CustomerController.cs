@@ -34,10 +34,6 @@ namespace Advanced_AJAX.Controllers
         [HttpPost]
         public IActionResult Create(Customer customer)
         {
-
-            string uniqueFileName = GetProfilePhotoFileName(customer);
-            customer.PhotoUrl = uniqueFileName;
-
             _context.Add(customer);
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RlmEz4QvhZXE/+1CO52XJWEq7G8y74WJusxBgbsAegE=",
+  "Hash": "+QXHiXnepidJhwyWO+zWOQ385LVP7YYCRiWl3A/E/MA=",
   "Source": "AdvancedAjax",
   "BasePath": "_content/AdvancedAjax",
   "Mode": "Default",
@@ -101,6 +101,48 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\17446f0a-0e58-4cdc-9493-46e9bda1fff4_Katze.jpg",
+      "SourceId": "AdvancedAjax",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\",
+      "BasePath": "_content/AdvancedAjax",
+      "RelativePath": "Images/17446f0a-0e58-4cdc-9493-46e9bda1fff4_Katze#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wv9nv25wrb",
+      "Integrity": "zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\17446f0a-0e58-4cdc-9493-46e9bda1fff4_Katze.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\2c9a9280-cacf-4e01-9edb-3d2a60ed94cc_Katze.jpg",
+      "SourceId": "AdvancedAjax",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\",
+      "BasePath": "_content/AdvancedAjax",
+      "RelativePath": "Images/2c9a9280-cacf-4e01-9edb-3d2a60ed94cc_Katze#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wv9nv25wrb",
+      "Integrity": "zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\2c9a9280-cacf-4e01-9edb-3d2a60ed94cc_Katze.jpg"
+    },
+    {
       "Identity": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\32c98d1f-e276-4e59-9d31-5f7750733c21_Katze.jpg",
       "SourceId": "AdvancedAjax",
       "SourceType": "Discovered",
@@ -120,6 +162,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\32c98d1f-e276-4e59-9d31-5f7750733c21_Katze.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\337fc866-288c-42d8-87e7-fc902d3e2b8b_Katze.jpg",
+      "SourceId": "AdvancedAjax",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\",
+      "BasePath": "_content/AdvancedAjax",
+      "RelativePath": "Images/337fc866-288c-42d8-87e7-fc902d3e2b8b_Katze#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wv9nv25wrb",
+      "Integrity": "zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\337fc866-288c-42d8-87e7-fc902d3e2b8b_Katze.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\5b0e5aa2-1f72-4f97-b835-5f20fd51149b_Katze.jpg",
+      "SourceId": "AdvancedAjax",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\",
+      "BasePath": "_content/AdvancedAjax",
+      "RelativePath": "Images/5b0e5aa2-1f72-4f97-b835-5f20fd51149b_Katze#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wv9nv25wrb",
+      "Integrity": "zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\5b0e5aa2-1f72-4f97-b835-5f20fd51149b_Katze.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\6113ea1e-d4fc-4b36-91b6-0663b47e279d_Katze.jpg",
+      "SourceId": "AdvancedAjax",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\",
+      "BasePath": "_content/AdvancedAjax",
+      "RelativePath": "Images/6113ea1e-d4fc-4b36-91b6-0663b47e279d_Katze#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wv9nv25wrb",
+      "Integrity": "zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\6113ea1e-d4fc-4b36-91b6-0663b47e279d_Katze.jpg"
     },
     {
       "Identity": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\c66c5386-4eb8-4a5b-ab25-67dbc12e19d9_Screenshot 2024-09-24 233922.png",
@@ -162,6 +267,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\c80bfb3b-d81a-42e8-aec0-04fa2f087c53_e27048c8-3957-43bd-b276-49ea0ddfa29e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\f00979a5-26f2-4996-8be1-cfab9e17b306_Katze.jpg",
+      "SourceId": "AdvancedAjax",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\",
+      "BasePath": "_content/AdvancedAjax",
+      "RelativePath": "Images/f00979a5-26f2-4996-8be1-cfab9e17b306_Katze#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wv9nv25wrb",
+      "Integrity": "zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\f00979a5-26f2-4996-8be1-cfab9e17b306_Katze.jpg"
     },
     {
       "Identity": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\fefef4f9-cd1e-464e-bba2-0a439a61aff7_e27048c8-3957-43bd-b276-49ea0ddfa29e.jpg",
@@ -220,8 +346,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "594gwtzp2u",
-      "Integrity": "iZ0hPyDhQkxKs0rtyfF+wJhkimDXKPL7dMmghiWmUF4=",
+      "Fingerprint": "jpqxgwdnf5",
+      "Integrity": "idpaiG8QTxX4uCVDubDvcyQbYzksoXJYRtlTQN9Pn6g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -1256,6 +1382,48 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "SourceId": "AdvancedAjax",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\",
+      "BasePath": "_content/AdvancedAjax",
+      "RelativePath": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vs3qwh9hx3",
+      "Integrity": "v2nySZafnswY87um3ymbg7p9f766IQspC5oqaqZVX2c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js"
+    },
+    {
+      "Identity": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "SourceId": "AdvancedAjax",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\",
+      "BasePath": "_content/AdvancedAjax",
+      "RelativePath": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8ve2wm9mbw",
+      "Integrity": "PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
       "Identity": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AdvancedAjax",
       "SourceType": "Discovered",
@@ -1754,6 +1922,170 @@
       ]
     },
     {
+      "Route": "Images/17446f0a-0e58-4cdc-9493-46e9bda1fff4_Katze.jpg",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\17446f0a-0e58-4cdc-9493-46e9bda1fff4_Katze.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 10:44:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/17446f0a-0e58-4cdc-9493-46e9bda1fff4_Katze.wv9nv25wrb.jpg",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\17446f0a-0e58-4cdc-9493-46e9bda1fff4_Katze.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 10:44:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv9nv25wrb"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/17446f0a-0e58-4cdc-9493-46e9bda1fff4_Katze.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/2c9a9280-cacf-4e01-9edb-3d2a60ed94cc_Katze.jpg",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\2c9a9280-cacf-4e01-9edb-3d2a60ed94cc_Katze.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 08:14:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/2c9a9280-cacf-4e01-9edb-3d2a60ed94cc_Katze.wv9nv25wrb.jpg",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\2c9a9280-cacf-4e01-9edb-3d2a60ed94cc_Katze.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 08:14:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv9nv25wrb"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/2c9a9280-cacf-4e01-9edb-3d2a60ed94cc_Katze.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc="
+        }
+      ]
+    },
+    {
       "Route": "Images/32c98d1f-e276-4e59-9d31-5f7750733c21_Katze.jpg",
       "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\32c98d1f-e276-4e59-9d31-5f7750733c21_Katze.jpg",
       "Selectors": [],
@@ -1828,6 +2160,252 @@
         {
           "Name": "label",
           "Value": "Images/32c98d1f-e276-4e59-9d31-5f7750733c21_Katze.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/337fc866-288c-42d8-87e7-fc902d3e2b8b_Katze.jpg",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\337fc866-288c-42d8-87e7-fc902d3e2b8b_Katze.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 09:01:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/337fc866-288c-42d8-87e7-fc902d3e2b8b_Katze.wv9nv25wrb.jpg",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\337fc866-288c-42d8-87e7-fc902d3e2b8b_Katze.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 09:01:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv9nv25wrb"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/337fc866-288c-42d8-87e7-fc902d3e2b8b_Katze.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/5b0e5aa2-1f72-4f97-b835-5f20fd51149b_Katze.jpg",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\5b0e5aa2-1f72-4f97-b835-5f20fd51149b_Katze.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 08:17:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/5b0e5aa2-1f72-4f97-b835-5f20fd51149b_Katze.wv9nv25wrb.jpg",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\5b0e5aa2-1f72-4f97-b835-5f20fd51149b_Katze.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 08:17:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv9nv25wrb"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/5b0e5aa2-1f72-4f97-b835-5f20fd51149b_Katze.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/6113ea1e-d4fc-4b36-91b6-0663b47e279d_Katze.jpg",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\6113ea1e-d4fc-4b36-91b6-0663b47e279d_Katze.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 13:24:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/6113ea1e-d4fc-4b36-91b6-0663b47e279d_Katze.wv9nv25wrb.jpg",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\6113ea1e-d4fc-4b36-91b6-0663b47e279d_Katze.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 13:24:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv9nv25wrb"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/6113ea1e-d4fc-4b36-91b6-0663b47e279d_Katze.jpg"
         },
         {
           "Name": "integrity",
@@ -2000,6 +2578,88 @@
       ]
     },
     {
+      "Route": "Images/f00979a5-26f2-4996-8be1-cfab9e17b306_Katze.jpg",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\f00979a5-26f2-4996-8be1-cfab9e17b306_Katze.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 13:36:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/f00979a5-26f2-4996-8be1-cfab9e17b306_Katze.wv9nv25wrb.jpg",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\f00979a5-26f2-4996-8be1-cfab9e17b306_Katze.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 13:36:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wv9nv25wrb"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/f00979a5-26f2-4996-8be1-cfab9e17b306_Katze.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zKgqFkoFtxQNmyOVbfuQUjbXTjpk+B9vSuPmAIiwfDc="
+        }
+      ]
+    },
+    {
       "Route": "Images/fefef4f9-cd1e-464e-bba2-0a439a61aff7_e27048c8-3957-43bd-b276-49ea0ddfa29e.62vyoags1v.jpg",
       "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\Images\\fefef4f9-cd1e-464e-bba2-0a439a61aff7_e27048c8-3957-43bd-b276-49ea0ddfa29e.jpg",
       "Selectors": [],
@@ -2164,7 +2824,7 @@
       ]
     },
     {
-      "Route": "js/site.594gwtzp2u.js",
+      "Route": "js/site.jpqxgwdnf5.js",
       "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2174,7 +2834,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1398"
+          "Value": "1884"
         },
         {
           "Name": "Content-Type",
@@ -2182,11 +2842,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iZ0hPyDhQkxKs0rtyfF+wJhkimDXKPL7dMmghiWmUF4=\""
+          "Value": "\"idpaiG8QTxX4uCVDubDvcyQbYzksoXJYRtlTQN9Pn6g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 08:31:58 GMT"
+          "Value": "Tue, 20 May 2025 19:23:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2196,7 +2856,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "594gwtzp2u"
+          "Value": "jpqxgwdnf5"
         },
         {
           "Name": "label",
@@ -2204,7 +2864,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-iZ0hPyDhQkxKs0rtyfF+wJhkimDXKPL7dMmghiWmUF4="
+          "Value": "sha256-idpaiG8QTxX4uCVDubDvcyQbYzksoXJYRtlTQN9Pn6g="
         }
       ]
     },
@@ -2219,7 +2879,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1398"
+          "Value": "1884"
         },
         {
           "Name": "Content-Type",
@@ -2227,11 +2887,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"iZ0hPyDhQkxKs0rtyfF+wJhkimDXKPL7dMmghiWmUF4=\""
+          "Value": "\"idpaiG8QTxX4uCVDubDvcyQbYzksoXJYRtlTQN9Pn6g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 16 May 2025 08:31:58 GMT"
+          "Value": "Tue, 20 May 2025 19:23:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2241,7 +2901,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-iZ0hPyDhQkxKs0rtyfF+wJhkimDXKPL7dMmghiWmUF4="
+          "Value": "sha256-idpaiG8QTxX4uCVDubDvcyQbYzksoXJYRtlTQN9Pn6g="
         }
       ]
     },
@@ -6260,6 +6920,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.js",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7872"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v2nySZafnswY87um3ymbg7p9f766IQspC5oqaqZVX2c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 09:39:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v2nySZafnswY87um3ymbg7p9f766IQspC5oqaqZVX2c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.8ve2wm9mbw.js",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 09:39:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ve2wm9mbw"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4061"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 09:39:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PAC000yuHt78nszJ2RO0OiDMu/uLzPLRlYTk8J3AO10="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.vs3qwh9hx3.js",
+      "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\lib\\jquery-ajax-unobtrusive\\jquery.unobtrusive-ajax.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7872"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v2nySZafnswY87um3ymbg7p9f766IQspC5oqaqZVX2c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 09:39:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vs3qwh9hx3"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v2nySZafnswY87um3ymbg7p9f766IQspC5oqaqZVX2c="
         }
       ]
     },

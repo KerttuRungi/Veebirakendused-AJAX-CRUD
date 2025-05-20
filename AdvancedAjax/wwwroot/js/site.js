@@ -2,6 +2,17 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+function ShowCountryCreateModal() {
+    $.ajax({
+        url: "/country/CreateModalForm",
+        type: 'get',
+        success: function (response) {
+            $("#DivCreateDialog").html(response);
+            ShowCreateModalForm();
+        }
+    });
+    return;
+}
 function FillCities(lstCountryCtrl, lstCityId) {
     var lstCities = $("#" + lstCityId);
     lstCities.empty();
@@ -30,7 +41,6 @@ function FillCities(lstCountryCtrl, lstCityId) {
     return;
 }
 
-
 $(".custom-file-input").on("change", function () {
 
     var fileName = $(this).val().split("\\").pop();
@@ -40,3 +50,11 @@ $(".custom-file-input").on("change", function () {
     document.getElementById('PhotoUrl').value = fileName;
 
 });
+
+function ShowCreateModalForm() {
+    const modalElement = document.getElementById('DivCreateDialogHolder');
+    const modal = bootstrap.Modal.getOrCreateInstance(modalElement);
+
+    modal.show();
+}
+
