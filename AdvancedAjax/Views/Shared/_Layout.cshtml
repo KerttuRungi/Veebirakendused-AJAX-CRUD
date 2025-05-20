@@ -56,9 +56,32 @@
             &copy; 2025 - Advanced_AJAX - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
     </footer>
+    <script>
+        function submitModalForm() {
+            var form = $('#countryCreateForm');
+
+            $.ajax({
+                type: "POST",
+                url: form.attr('action'),
+                data: form.serialize(),
+                success: function () {
+                    // Close the modal
+                    var modal = bootstrap.Modal.getInstance(document.getElementById('DivCreateDialogHolder'));
+                    modal.hide();
+
+                    // Refresh dropdown
+                    FillCountries('lstCountryId');
+                },
+                error: function (xhr) {
+                    console.error("Error saving country:", xhr.responseText);
+                }
+            });
+        }
+    </script>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

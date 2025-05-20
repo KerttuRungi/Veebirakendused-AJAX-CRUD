@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+QXHiXnepidJhwyWO+zWOQ385LVP7YYCRiWl3A/E/MA=",
+  "Hash": "jCOUUkfkwSJ5Sk8Y/Lpb92tNPxH+BYP++nw2E5CdeL0=",
   "Source": "AdvancedAjax",
   "BasePath": "_content/AdvancedAjax",
   "Mode": "Default",
@@ -346,8 +346,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "jpqxgwdnf5",
-      "Integrity": "idpaiG8QTxX4uCVDubDvcyQbYzksoXJYRtlTQN9Pn6g=",
+      "Fingerprint": "i0jx9tpa8q",
+      "Integrity": "ftSlQkK/NwPUuj3k1N09pKkAr+D6WZvyG7cP97XivHA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -2824,7 +2824,7 @@
       ]
     },
     {
-      "Route": "js/site.jpqxgwdnf5.js",
+      "Route": "js/site.i0jx9tpa8q.js",
       "AssetFile": "C:\\Users\\kertt\\Desktop\\Kõik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2834,7 +2834,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1884"
+          "Value": "2829"
         },
         {
           "Name": "Content-Type",
@@ -2842,11 +2842,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"idpaiG8QTxX4uCVDubDvcyQbYzksoXJYRtlTQN9Pn6g=\""
+          "Value": "\"ftSlQkK/NwPUuj3k1N09pKkAr+D6WZvyG7cP97XivHA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 19:23:27 GMT"
+          "Value": "Tue, 20 May 2025 20:19:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2856,7 +2856,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "jpqxgwdnf5"
+          "Value": "i0jx9tpa8q"
         },
         {
           "Name": "label",
@@ -2864,7 +2864,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-idpaiG8QTxX4uCVDubDvcyQbYzksoXJYRtlTQN9Pn6g="
+          "Value": "sha256-ftSlQkK/NwPUuj3k1N09pKkAr+D6WZvyG7cP97XivHA="
         }
       ]
     },
@@ -2879,7 +2879,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1884"
+          "Value": "2829"
         },
         {
           "Name": "Content-Type",
@@ -2887,11 +2887,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"idpaiG8QTxX4uCVDubDvcyQbYzksoXJYRtlTQN9Pn6g=\""
+          "Value": "\"ftSlQkK/NwPUuj3k1N09pKkAr+D6WZvyG7cP97XivHA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 May 2025 19:23:27 GMT"
+          "Value": "Tue, 20 May 2025 20:19:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2901,7 +2901,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-idpaiG8QTxX4uCVDubDvcyQbYzksoXJYRtlTQN9Pn6g="
+          "Value": "sha256-ftSlQkK/NwPUuj3k1N09pKkAr+D6WZvyG7cP97XivHA="
         }
       ]
     },
