@@ -57,16 +57,22 @@
                     <select id="lstCountryId" asp-for="CountryId" class="form-control" asp-items="ViewBag.Countries" onchange="FillCities(this, 'lstCity');"></select>
                 </div>
                 <div class="col-1 mt-4">
-                    <button type="button" class="btn btn-success" onclick="showCountryCreateModal();">
-                        +
-                    </button>
+                    <button type="button" class="btn btn-success" onclick="ShowCountryCreateModal();">+</button>
+
                 </div>
             </div>
 
-            <div class="form-group">
-                <label asp-for="CityId" class="control-label"></label>
-                <select id="lstCity" asp-for="CityId" class ="form-control" asp-items="ViewBag.Cities"></select>
+            <div class="form-group btn-group col-12">
+                <div class="col-11">
+                    <label asp-for="CityId" class="control-label"></label>
+                    <select id="lstCity" asp-for="CityId" class="form-control" asp-items="ViewBag.Cities"></select>
+                </div>
+                <div class="col-1 mt-4">
+                    <button type="button" class="btn btn-success" onclick="ShowCityCreateModal();">+</button>
+
+                </div>
             </div>
+            
 
             <div class="col-md-12 btn-group pb-2">
 
@@ -110,6 +116,14 @@
     <a asp-action="Index">Back to List</a>
 </div>
 
+<div class="modal fade" id="DivCreateDialogHolder" tabindex="-1" aria-labelledby="modalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content" id="DivCreateDialog">
+            
+        </div>
+    </div>
+</div>
+
 @section Scripts {
     @{
         await Html.RenderPartialAsync("_ValidationScriptsPartial");
@@ -117,7 +131,7 @@
 
     <script type="text/javascript">
 
-        function showCountryCreateModal() {
+        function ShowCountryCreateModal() {
             $.get("/country/CreateModalForm", function (response) {
                 $('#DivCreateDialog').html(response);
                 var modal = new bootstrap.Modal(document.getElementById('DivCreateDialogHolder'));
@@ -125,7 +139,23 @@
             });
         }
 
+        function ShowCityCreateModal() {
+            var lstCountryCtrl = document.getElementById('lstCountryId');
+            var countryId = lstCountryCtrl?.value;
 
+            if (!countryId) {
+                alert("Please select a country first.");
+                return;
+            }
+
+            $.get("/city/CreateModalForm?countryId=" + countryId, function (response) {
+                $('#DivCreateDialog').html(response);
+                var modal = new bootstrap.Modal(document.getElementById('DivCreateDialogHolder'));
+                modal.show();
+            }).fail(function (xhr) {
+                console.error("Failed to load city modal:", xhr.responseText);
+            });
+        }
 
     </script>
 }

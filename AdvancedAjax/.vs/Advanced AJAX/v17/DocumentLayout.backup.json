@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|c:\\users\\kertt\\desktop\\k\u00F5ik repod\\veebirakendused-ajax-crud\\advancedajax\\views\\shared\\_createmodaldialog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|solutionrelative:views\\shared\\_createmodaldialog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|c:\\users\\kertt\\desktop\\k\u00F5ik repod\\veebirakendused-ajax-crud\\advancedajax\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|solutionrelative:views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|c:\\users\\kertt\\desktop\\k\u00F5ik repod\\veebirakendused-ajax-crud\\advancedajax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|c:\\users\\kertt\\desktop\\k\u00F5ik repod\\veebirakendused-ajax-crud\\advancedajax\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|solutionrelative:controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|c:\\users\\kertt\\desktop\\k\u00F5ik repod\\veebirakendused-ajax-crud\\advancedajax\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|c:\\users\\kertt\\desktop\\k\u00F5ik repod\\veebirakendused-ajax-crud\\advancedajax\\views\\city\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|solutionrelative:views\\city\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|c:\\users\\kertt\\desktop\\k\u00F5ik repod\\veebirakendused-ajax-crud\\advancedajax\\views\\country\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|solutionrelative:views\\country\\_createmodalform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|c:\\users\\kertt\\desktop\\k\u00F5ik repod\\veebirakendused-ajax-crud\\advancedajax\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|solutionrelative:controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|c:\\users\\kertt\\desktop\\k\u00F5ik repod\\veebirakendused-ajax-crud\\advancedajax\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|c:\\users\\kertt\\desktop\\k\u00F5ik repod\\veebirakendused-ajax-crud\\advancedajax\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|c:\\users\\kertt\\desktop\\k\u00F5ik repod\\veebirakendused-ajax-crud\\advancedajax\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B417967A-5236-48FA-B5B9-72979E73855C}|AdvancedAjax.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADQAAAAAAAAAAAAmwE8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T20:25:09.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "wwwroot\\js\\site.js",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAQwF8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-20T19:55:57.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_CreateModalDialog.cshtml",
-              "DocumentMoniker": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Views\\Shared\\_CreateModalDialog.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_CreateModalDialog.cshtml",
-              "ToolTip": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Views\\Shared\\_CreateModalDialog.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_CreateModalDialog.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAWwB0AAAASAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAIwJ0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T19:53:48.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CountryController.cs",
-              "DocumentMoniker": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Controllers\\CountryController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CountryController.cs",
-              "ToolTip": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Controllers\\CountryController.cs",
-              "RelativeToolTip": "Controllers\\CountryController.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAYwIcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T19:49:32.771Z",
+              "WhenOpened": "2025-05-20T20:54:05.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-20T20:53:39.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_CreateModalForm.cshtml",
               "DocumentMoniker": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Views\\Country\\_CreateModalForm.cshtml",
               "RelativeDocumentMoniker": "Views\\Country\\_CreateModalForm.cshtml",
               "ToolTip": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Views\\Country\\_CreateModalForm.cshtml",
               "RelativeToolTip": "Views\\Country\\_CreateModalForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAePNvh5XfvyYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T19:09:38.617Z",
+              "WhenOpened": "2025-05-20T20:53:17.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_CreateModalForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Views\\City\\_CreateModalForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\City\\_CreateModalForm.cshtml",
+              "ToolTip": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Views\\City\\_CreateModalForm.cshtml",
+              "RelativeToolTip": "Views\\City\\_CreateModalForm.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T20:52:33.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Models\\City.cs",
+              "ToolTip": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Models\\City.cs",
+              "RelativeToolTip": "Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:51:38.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Controllers\\CityController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAHwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T20:51:00.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kertt\\Desktop\\K\u00F5ik repod\\Veebirakendused-AJAX-CRUD\\AdvancedAjax\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T21:03:04.457Z",
               "EditorCaption": ""
             }
           ]

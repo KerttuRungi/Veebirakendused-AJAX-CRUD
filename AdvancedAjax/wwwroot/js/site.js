@@ -13,6 +13,28 @@ function ShowCountryCreateModal() {
     });
     return;
 }
+
+function ShowCityCreateModal() {
+    var lstCountryCtrl = document.getElementById('lstCountryId');
+    var countryId = lstCountryCtrl?.value;
+
+    if (!countryId) {
+        alert("Please select a country first.");
+        return;
+    }
+
+    $.ajax({
+        url: "/city/CreateModalForm?countryId=" + countryId,
+        type: 'get',
+        success: function (response) {
+            $("#DivCreateDialog").html(response);
+            ShowCreateModalForm();
+        },
+        error: function () {
+            console.error("Error loading city create modal.");
+        }
+    });
+}
 function FillCities(lstCountryCtrl, lstCityId) {
     var lstCities = $("#" + lstCityId);
     lstCities.empty();
@@ -60,13 +82,21 @@ function ShowCreateModalForm() {
 
 function submitModalForm() {
     var btnSubmit = document.getElementById('btnSubmit');
-    btnSubmit.Click();
+    if (btnSubmit) btnSubmit.click();
+    else console.error("Submit button with id 'btnSubmit' not found.");
 }
 
 function refreshCountryList() {
     var btnBack = document.getElementById('dupBackBtn');
     btnBack.click();
     FillCountries("lstCountryId");
+}
+
+function refreshCityList() {
+    var btnBack = document.getElementById('dupBackBtn');
+    btnBack.click();
+    var lstCountryCtrl = document.getElementById('lstCountryId');
+    FillCities(lstCountryCtrl, "lstCity")
 }
 
 function FillCountries(lstCountryId) {
@@ -91,5 +121,6 @@ function FillCountries(lstCountryId) {
             });
         }
     });
+    
 }
 

@@ -1,10 +1,10 @@
-﻿@model AdvancedAjax.Models.Country
+﻿@model AdvancedAjax.Models.City
 
-<h4>Country</h4>
+<h4>City</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="CreateModalForm" method="post" id="countryCreateForm" data-ajax="true" data-ajax-success="refreshCountryList();">
+        <form asp-action="CreateModalForm" method="post" id="cityCreateForm" data-ajax="true" data-ajax-success="refreshCityList();">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Code" class="control-label"></label>
@@ -17,11 +17,11 @@
                 <span asp-validation-for="Name" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="CurrencyName" class="control-label"></label>
-                <input asp-for="CurrencyName" class="form-control" />
-                <span asp-validation-for="CurrencyName" class="text-danger"></span>
+                <label asp-for="CountryId" class="control-label"></label>
+                <input type="hidden" asp-for="CountryId" class="form-control" />
+                <input asp-for="CountryName" class="form-control" readonly />
             </div>
-            <div class="form-group" style="display:none;">
+            <div class="form-group" style="display: none;">
                 <input id="btnSubmit" type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
@@ -36,3 +36,4 @@
 
 <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
 <script src="~/lib/jquery-ajax-unobtrusive/jquery.unobtrusive-ajax.min.js"></script>
+

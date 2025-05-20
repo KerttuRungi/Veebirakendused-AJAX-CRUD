@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdvancedAjax")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c600d98254ae190bae9594ba82242008e1bbae2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c70679a2320b7b683b34a38ccb9a8fc28d7aa9b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdvancedAjax")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdvancedAjax")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
